@@ -95,7 +95,7 @@ discord: Artin#1241
 
 [my github page](https://github.com/Artinnavidgoli)
 
-<a href="https://coffeebede.ir/time.to.code.with.me"><img src="[default-yellow.svg](https://anonfiles.com/W5I3C6F8y7/default-yellow_svg)></img></a>
+<a href="https://coffeebede.ir/time.to.code.with.me"><img src="[default-yellow.svg](https://anonfiles.com/W5I3C6F8y7/default-yellow_svg)"></img></a>
 ****
 please visit other projects and my youtube chanel :)
 
