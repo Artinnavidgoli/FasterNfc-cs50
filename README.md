@@ -95,13 +95,16 @@ discord: Artin#1241
 
 [my github page](https://github.com/Artinnavidgoli)
 
-<a href="https://coffeebede.ir/buycoffee/time.to.code.with.me"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+
 ****
 please visit other projects and my youtube chanel :)
 
 as Elon Mask said : " scare of ai , it is too dangerous !"
 
 if you wondering why write this in my readme file , it is because the 75% of this file is wroten by ai !
+
+if you want you can buy me me coffee :)
+<a href="https://coffeebede.ir/buycoffee/time.to.code.with.me"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
 *-This Was Cs50*
 
