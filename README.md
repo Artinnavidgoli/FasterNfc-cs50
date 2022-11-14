@@ -1,5 +1,5 @@
 # FasterNfcReader
-#### Video Demo:  <URL https://youtu.be/lwPumdciA0s>
+#### Video Demo:  <URL https://youtu.be/lwPumdciA0s >
 #### Description:
 The app idea is a nfc reader that can reconize a nfc card information.
 
@@ -87,17 +87,21 @@ thanks for reading to this far , if you guys want to help me in this project you
 
 - Android Studio
 ****
-discord: Artin#1241
+if you want you check my other projects and my youtube chanel 
 
-[discord server](https://discord.gg/4gYgnustX3)
+Discord ID: Artin#1241
 
-[page of progect](https://github.com/Artinnavidgoli/FasterNfc-cs50)
+[discord server (open Source project)](https://discord.gg/4gYgnustX3)
+
+[discord serverfor everyone](https://discord.gg/4gfjaPjv3Q)
+
+[page of progect](https://github.com/Artinnavidgoli/cs50x-2022-sloution)
 
 [my github page](https://github.com/Artinnavidgoli)
 
+[my youtube chanel](https://www.youtube.com/channel/UCunxVBWNJo3RXC_BNu2s4rw)
 
 ****
-please visit other projects and my youtube chanel :)
 
 as Elon Mask said : " scare of ai , it is too dangerous !"
 
