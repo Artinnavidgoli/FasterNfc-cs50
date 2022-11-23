@@ -101,6 +101,10 @@ Discord ID: Artin#1241
 
 [my youtube chanel](https://www.youtube.com/channel/UCunxVBWNJo3RXC_BNu2s4rw)
 
+#### VIDEO DEMO
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IwPumdciA0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ****
 
 as Elon Mask said : " scare of ai , it is too dangerous !"
