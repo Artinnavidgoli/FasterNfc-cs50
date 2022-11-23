@@ -93,9 +93,9 @@ Discord ID: Artin#1241
 
 [discord server (open Source project)](https://discord.gg/4gYgnustX3)
 
-[discord serverfor everyone](https://discord.gg/4gfjaPjv3Q)
+[discord server for everyone](https://discord.gg/4gfjaPjv3Q)
 
-[page of progect](https://github.com/Artinnavidgoli/cs50x-2022-sloution)
+[page of progect](https://github.com/Artinnavidgoli/FasterNfc-cs50)
 
 [my github page](https://github.com/Artinnavidgoli)
 
