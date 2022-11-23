@@ -34,7 +34,7 @@ the main idea is make to make a new payment system like Paypal or AMEX based on 
 - corona pandamic (points from 1 up to 5)
  1. cash => 30 sec up to 3 min || no tax fee (almost) || point 1
 
- 2. simple card => 1 up to 2 min || tax fee 3% (can be up to 5%) || point 3 (better than cash but you use the butten on the pos , too)
+ 2. simple card => 1 up to 2 min || tax fee 3% (can be up to 5%) || point 3 (better than cash but you need to use the butten on the pos machine , too)
 
  3. online payment => 2 up to 10 min (because of 10 min limit) || tax fee 9% || point 5
 
